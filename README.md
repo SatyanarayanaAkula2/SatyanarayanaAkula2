@@ -34,7 +34,7 @@ I’m **Satyanarayana Akula**, an aspiring **Full Stack Developer** and **AI Eng
 
 ### **Data Analysis**  
 <div>
-  <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" width="40" height="40" />
+ <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/tableau.svg" alt="Tableau" width="40" height="40" />
 </div>  
 
 ### **Machine Learning**  
